@@ -26,7 +26,11 @@ https://stackoverflow.com/questions/46353215/import-error-dll-load-failed-in-jup
 ## 8. 딥러닝 기반 FAST 객체 탐색 기법 - CNN, YOLO, SSD 
 https://sites.google.com/site/bimprinciple/in-the-news/dibleoning-euliyonghangaegchegeomchulr-cnnyolossd
 
-## 9. Python modules
+## 9. Training Custom Object Detector - Tensorflow Object Detection API Tutorial 
+https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/ 
+
+
+## 10. Python modules
 * pip install scipy   
 * pip install opencv-python 
 
