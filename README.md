@@ -27,6 +27,7 @@ https://stackoverflow.com/questions/46353215/import-error-dll-load-failed-in-jup
 https://sites.google.com/site/bimprinciple/in-the-news/dibleoning-euliyonghangaegchegeomchulr-cnnyolossd
 
 ## 9. Training Custom Object Detector - Tensorflow Object Detection API Tutorial 
+https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/    
 https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/ 
 
 
