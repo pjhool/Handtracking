@@ -15,3 +15,12 @@ https://bcho.tistory.com/1192
 
 ##  Import error: DLL load failed in Jupyter notebook but working in .py file
 https://stackoverflow.com/questions/46353215/import-error-dll-load-failed-in-jupyter-notebook-but-working-in-py-file
+
+
+## 딥러닝 기반 FAST 객체 탐색 기법 - CNN, YOLO, SSD 
+https://sites.google.com/site/bimprinciple/in-the-news/dibleoning-euliyonghangaegchegeomchulr-cnnyolossd
+
+## Python modules
+pip install scipy
+pip install opencv-python 
+
