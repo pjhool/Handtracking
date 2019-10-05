@@ -21,6 +21,6 @@ https://stackoverflow.com/questions/46353215/import-error-dll-load-failed-in-jup
 https://sites.google.com/site/bimprinciple/in-the-news/dibleoning-euliyonghangaegchegeomchulr-cnnyolossd
 
 ## Python modules
-pip install scipy
+pip install scipy   
 pip install opencv-python 
 
