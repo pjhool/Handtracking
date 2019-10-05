@@ -1,10 +1,10 @@
 
 # Handtracking
 
-## How to Build a Real-time Hand-Detector using Neural Networks (SSD) on Tensorflow :
+## 1. How to Build a Real-time Hand-Detector using Neural Networks (SSD) on Tensorflow :
 https://medium.com/…/how-to-build-a-real-time-hand-detector…
 
-## Windows에서 Tensorflow Object Detection API 설치하기!! :
+## 2. Windows에서 Tensorflow Object Detection API 설치하기!! :
 https://musma.github.io/2019/…/15/tensorflow-on-windows.html
 
 ## 나도 한 번 만들어 보자
