@@ -16,14 +16,17 @@ https://bcho.tistory.com/1192
 ## 5. Tensorflow Instance Segmentation    
 https://ukayzm.github.io/tensorflow-instance-segmentation/ 
 
-## 6. Import error: DLL load failed in Jupyter notebook but working in .py file
+## 6. Object Detection and Instance Segmentation    
+https://github.com/ukayzm/opencv/tree/master/object_detection_tensorflow#object-detection-and-instance-segmentation 
+
+## 7. Import error: DLL load failed in Jupyter notebook but working in .py file
 https://stackoverflow.com/questions/46353215/import-error-dll-load-failed-in-jupyter-notebook-but-working-in-py-file
 
 
-## 7. 딥러닝 기반 FAST 객체 탐색 기법 - CNN, YOLO, SSD 
+## 8. 딥러닝 기반 FAST 객체 탐색 기법 - CNN, YOLO, SSD 
 https://sites.google.com/site/bimprinciple/in-the-news/dibleoning-euliyonghangaegchegeomchulr-cnnyolossd
 
-## 8. Python modules
-pip install scipy   
-pip install opencv-python 
+## 9. Python modules
+* pip install scipy   
+* pip install opencv-python 
 
